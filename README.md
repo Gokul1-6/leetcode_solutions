@@ -20,6 +20,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0070-climbing-stairs](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Hash Table
 |  |
 | ------- |
@@ -70,6 +71,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0066-plus-one) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Bracket Sequences
 |  |
 | ------- |
