@@ -65,9 +65,14 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0066-plus-one) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0020-valid-parentheses) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
