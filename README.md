@@ -34,6 +34,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0002-add-two-numbers) |
 | [0012-integer-to-roman](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0070-climbing-stairs) |
@@ -94,4 +95,12 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gokul1-6/leetcode_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
