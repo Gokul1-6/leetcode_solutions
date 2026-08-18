@@ -26,6 +26,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Gokul1-6/leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -72,6 +73,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
