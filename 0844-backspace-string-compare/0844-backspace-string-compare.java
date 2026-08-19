@@ -9,6 +9,7 @@ class Solution {
 
         while (i >= 0 || j >= 0) {
 
+            // Find next valid character in s
             while (i >= 0) {
 
                 if (s.charAt(i) == '#') {
@@ -24,6 +25,7 @@ class Solution {
                 }
             }
 
+            // Find next valid character in t
             while (j >= 0) {
 
                 if (t.charAt(j) == '#') {
@@ -39,11 +41,13 @@ class Solution {
                 }
             }
 
+            // Compare valid characters
             if (i >= 0 && j >= 0 &&
                 s.charAt(i) != t.charAt(j)) {
                 return false;
             }
 
+            // One string has character, other doesn't
             if ((i >= 0) != (j >= 0)) {
                 return false;
             }
