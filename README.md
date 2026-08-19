@@ -7,6 +7,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0141-linked-list-cycle) |
+| [0844-backspace-string-compare](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 ## String
 |  |
@@ -16,6 +17,7 @@
 | [0012-integer-to-roman](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0058-length-of-last-word) |
+| [0844-backspace-string-compare](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gokul1-6/leetcode_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Gokul1-6/leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Gokul1-6/leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -63,6 +65,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
+| [0844-backspace-string-compare](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0844-backspace-string-compare) |
 ## Design
 |  |
 | ------- |
@@ -118,4 +121,8 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0141-linked-list-cycle) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
