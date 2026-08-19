@@ -44,6 +44,7 @@
 | [0012-integer-to-roman](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0070-climbing-stairs) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Gokul1-6/leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Gokul1-6/leetcode_solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Combinatorics
@@ -64,6 +65,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0844-backspace-string-compare](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0844-backspace-string-compare) |
 ## Design
@@ -85,6 +87,7 @@
 | [0035-search-insert-position](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 ## Bracket Sequences
 |  |
 | ------- |
