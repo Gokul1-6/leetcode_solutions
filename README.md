@@ -7,6 +7,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0141-linked-list-cycle](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0844-backspace-string-compare](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [0876-middle-of-the-linked-list](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 ## String
@@ -35,6 +36,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Gokul1-6/leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Gokul1-6/leetcode_solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Math
@@ -112,6 +114,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
@@ -124,6 +127,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0141-linked-list-cycle) |
+| [0142-linked-list-cycle-ii](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 ## Simulation
 |  |
 | ------- |
