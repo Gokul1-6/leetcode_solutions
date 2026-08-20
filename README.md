@@ -43,6 +43,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0002-add-two-numbers) |
+| [0009-palindrome-number](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0066-plus-one](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0070-climbing-stairs) |
