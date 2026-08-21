@@ -82,12 +82,14 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Gokul1-6/leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0001-two-sum) |
 | [0035-search-insert-position](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0035-search-insert-position) |
+| [0056-merge-intervals](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0066-plus-one) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -138,4 +140,8 @@
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
