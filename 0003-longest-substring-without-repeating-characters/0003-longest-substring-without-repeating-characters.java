@@ -6,6 +6,7 @@ class Solution {
         HashSet<Character> set = new HashSet<>();
         int left = 0;
     int maxlength = 0;
+    
                     for(int right=0; right <s.length(); right++){
             char ch = s.charAt(right);
 
