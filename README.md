@@ -148,4 +148,8 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0056-merge-intervals) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
