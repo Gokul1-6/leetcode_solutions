@@ -74,6 +74,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0020-valid-parentheses) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0844-backspace-string-compare](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0844-backspace-string-compare) |
@@ -156,4 +157,16 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0005-longest-palindromic-substring) |
+## Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
