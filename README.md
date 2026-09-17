@@ -36,6 +36,7 @@
 | [0070-climbing-stairs](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0509-fibonacci-number](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0509-fibonacci-number) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Gokul1-6/leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Gokul1-6/leetcode_solutions/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 ## Hash Table
 |  |
@@ -45,6 +46,7 @@
 | [0012-integer-to-roman](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Gokul1-6/leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Gokul1-6/leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Gokul1-6/leetcode_solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Gokul1-6/leetcode_solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -109,6 +111,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0238-product-of-array-except-self](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Gokul1-6/leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -118,6 +121,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0035-search-insert-position) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Gokul1-6/leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Memoization
 |  |
 | ------- |
@@ -128,6 +132,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gokul1-6/leetcode_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Gokul1-6/leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 ## Linked List
 |  |
 | ------- |
