@@ -23,6 +23,7 @@
 | [0058-length-of-last-word](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0058-length-of-last-word) |
 | [0844-backspace-string-compare](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gokul1-6/leetcode_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Gokul1-6/leetcode_solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Gokul1-6/leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Gokul1-6/leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Gokul1-6/leetcode_solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -47,6 +48,7 @@
 | [0141-linked-list-cycle](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Gokul1-6/leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Gokul1-6/leetcode_solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Gokul1-6/leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Gokul1-6/leetcode_solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Gokul1-6/leetcode_solutions/tree/master/3760-maximum-substrings-with-distinct-start) |
@@ -76,6 +78,7 @@
 ## Greedy
 |  |
 | ------- |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Gokul1-6/leetcode_solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Gokul1-6/leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Gokul1-6/leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Stack
@@ -99,6 +102,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0056-merge-intervals) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Gokul1-6/leetcode_solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Gokul1-6/leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Array
 |  |
