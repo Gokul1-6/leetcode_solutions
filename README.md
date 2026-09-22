@@ -68,6 +68,7 @@
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Gokul1-6/leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/Gokul1-6/leetcode_solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/Gokul1-6/leetcode_solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Gokul1-6/leetcode_solutions/tree/master/3525-find-x-value-of-array-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -121,6 +122,7 @@
 | [0238-product-of-array-except-self](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Gokul1-6/leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/Gokul1-6/leetcode_solutions/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Gokul1-6/leetcode_solutions/tree/master/3525-find-x-value-of-array-ii) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -197,4 +199,8 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0014-longest-common-prefix) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/Gokul1-6/leetcode_solutions/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
