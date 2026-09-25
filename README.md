@@ -23,6 +23,7 @@
 | [0032-longest-valid-parentheses](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0058-length-of-last-word) |
 | [0844-backspace-string-compare](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0844-backspace-string-compare) |
+| [1096-brace-expansion-ii](https://github.com/Gokul1-6/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gokul1-6/leetcode_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Gokul1-6/leetcode_solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Gokul1-6/leetcode_solutions/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -49,6 +50,7 @@
 | [0012-integer-to-roman](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0012-integer-to-roman) |
 | [0141-linked-list-cycle](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0142-linked-list-cycle-ii) |
+| [1096-brace-expansion-ii](https://github.com/Gokul1-6/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Gokul1-6/leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Gokul1-6/leetcode_solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Gokul1-6/leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -94,6 +96,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0844-backspace-string-compare](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0844-backspace-string-compare) |
+| [1096-brace-expansion-ii](https://github.com/Gokul1-6/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 ## Design
 |  |
 | ------- |
@@ -106,6 +109,7 @@
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0056-merge-intervals) |
+| [1096-brace-expansion-ii](https://github.com/Gokul1-6/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Gokul1-6/leetcode_solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Gokul1-6/leetcode_solutions/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 ## Array
@@ -203,4 +207,12 @@
 |  |
 | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/Gokul1-6/leetcode_solutions/tree/master/3525-find-x-value-of-array-ii) |
+## Backtracking
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Gokul1-6/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
+## Breadth-First Search
+|  |
+| ------- |
+| [1096-brace-expansion-ii](https://github.com/Gokul1-6/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
 <!---LeetCode Topics End-->
