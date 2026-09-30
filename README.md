@@ -24,6 +24,7 @@
 | [0058-length-of-last-word](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0058-length-of-last-word) |
 | [0844-backspace-string-compare](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [1096-brace-expansion-ii](https://github.com/Gokul1-6/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Gokul1-6/leetcode_solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Gokul1-6/leetcode_solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/Gokul1-6/leetcode_solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Gokul1-6/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -98,6 +99,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0225-implement-stack-using-queues) |
 | [0844-backspace-string-compare](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0844-backspace-string-compare) |
 | [1096-brace-expansion-ii](https://github.com/Gokul1-6/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Gokul1-6/leetcode_solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Gokul1-6/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Design
 |  |
@@ -134,6 +136,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0032-longest-valid-parentheses) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Gokul1-6/leetcode_solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Gokul1-6/leetcode_solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Binary Search
 |  |
