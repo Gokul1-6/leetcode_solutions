@@ -133,6 +133,7 @@
 | [0150-evaluate-reverse-polish-notation](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0238-product-of-array-except-self](https://github.com/Gokul1-6/leetcode_solutions/tree/master/0238-product-of-array-except-self) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Gokul1-6/leetcode_solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Gokul1-6/leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3524-find-x-value-of-array-i](https://github.com/Gokul1-6/leetcode_solutions/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Gokul1-6/leetcode_solutions/tree/master/3525-find-x-value-of-array-ii) |
 ## Bracket Sequences
@@ -227,4 +228,8 @@
 |  |
 | ------- |
 | [1096-brace-expansion-ii](https://github.com/Gokul1-6/leetcode_solutions/tree/master/1096-brace-expansion-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Gokul1-6/leetcode_solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
